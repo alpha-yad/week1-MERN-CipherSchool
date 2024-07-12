@@ -1,0 +1,5 @@
+git revert filename(it helps to revert back the commit it will not remove the history)
+to make the file appear again
+-> git checkout master
+some serious commands
+-> git reset fileid(it will remove all history to stage)
