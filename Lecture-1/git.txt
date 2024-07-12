@@ -1,0 +1,10 @@
+Git is a distrubuted version control system. Git is handled by Microsoft.
+commands
+git --user -> defined the user 
+git --version -> tell the git version
+workflow of git
+Initialization commands
+->git init
+Modification/adding (untracked zone) | staging | commit
+
+
