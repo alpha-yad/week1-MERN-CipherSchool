@@ -1,0 +1,11 @@
+git init`: This command initializes a new Git repository.
+
+`git add README.md`: This command stages the README.md file, preparing it for commit.(this is not necessary)
+
+`git commit -m "MESSAGE"`: This command commits the staged changes and provides a message describing the changes.
+
+`git branch -M main`: This command renames the current branch to 'main'.
+
+ `git remote add origin URL: This command adds a new remote repository named 'origin' at the specified URL.
+
+`git push -u origin main`: This command pushes the commits in the 'main' branch to the 'origin' remote repository.
