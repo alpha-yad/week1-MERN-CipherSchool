@@ -1,0 +1,8 @@
+Create a new branch
+->git branch [branchName]
+List all remote or local branches
+->git branch -a
+Delete a branch
+-> git branch -d [branchName]
+merge changes into current branch
+-> git merge [branchName]

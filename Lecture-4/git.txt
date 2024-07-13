@@ -1,0 +1,5 @@
+git revert  
+git reset fileid --hard/--soft FLAGS
+to change the branch(master->main)or (main->master) 
+git checkout -b BRANCH_NAME 
+git checkout BRANCH_NAME (take to that branch)

@@ -1,0 +1,10 @@
+unstage to stage
+-> git add filename
+-> git rm --cached filename
+to check the status 
+->git status
+set your global identity
+->git global
+to set username and password
+-> git config --global username "cipherSchool"
+-> git congig --global user.mail "your email"
